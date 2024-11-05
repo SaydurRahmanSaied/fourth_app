@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ![ScreenshotOne](assets/images/ScreenshotOne.png)
-![ScreenshotOne](assets/images/ScreenshotOne.png)
+![ScreenshotOne](assets/images/ScreenshotTwo.png)
 
 ## Getting Started
 
